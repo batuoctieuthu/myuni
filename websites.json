@@ -1,0 +1,398 @@
+{
+	"amazon": [
+		"https://www.amazon.com/"
+	],
+	"google": [
+		"https://www.google.com/"
+	],
+	"google classroom": [
+		"https://classroom.google.com/u/0/h"
+	],
+	"google ad": [
+		"https://ads.google.com/"
+	],
+	"gmail": [
+		"https://mail.google.com/mail/u/0/#inbox"
+	],
+	"pinterest": [
+		"https://www.pinterest.com/"
+	],
+	"google finance": [
+		"https://www.google.com/finance"
+	],
+	"time magazine": [
+		"https://time.com/"
+	],
+	"leetcode":[
+		"https://leetcode.com/"
+	],
+	"sephora": [
+		"https://www.sephora.com/"
+	],
+	"netflix": [
+		"https://www.netflix.com"
+	],
+	"github": [
+		"https://github.com/"
+	],
+	"youtube": [
+		"https://www.youtube.com/"
+	],
+	"zoom":[
+		"https://zoom.us/"
+	],
+	"unicef":[
+		"https://www.unicef.org/"
+	],
+	"ebay":[
+		"https://www.ebay.com/"
+	],
+	"tesla":[
+		"https://www.tesla.com/"
+	],
+	"gucci": [
+		"https://www.gucci.com/"
+	],
+	"chanel":[
+		"https://www.chanel.com/"
+	],
+	"coach":[
+		"https://www.coach.com"
+	],
+	"codecademy":[
+		"https://www.codecademy.com/catalog"
+	],
+	"algoexpert":[
+		"https://www.algoexpert.io/product"
+	],
+	"paypal":[
+		"https://www.paypal.com/"
+	],
+	"coursera":[
+		"https://www.coursera.org/"
+	],
+	"tiktok":[
+		"https://www.tiktok.com/"
+	],
+	"yahoo jp":[
+		"https://www.yahoo.co.jp/"
+	],
+	"yahoo uk":[
+		"https://uk.yahoo.com/"
+	],
+	"stack overflow":[
+		"https://stackoverflow.com/"
+	],
+	"instagram": [
+		"https://www.instagram.com/"
+	],
+	"facebook": [
+		"https://www.facebook.com/"
+	],
+	"linkedin": [
+		"https://www.linkedin.com/"
+	],
+	"twitter": [
+		"https://twitter.com/LOGIN"
+	],
+	"baidu": [
+		"https://www.baidu.com/"
+	],
+	"weibo": [
+		"https://weibo.com/"
+	],
+	"lamborghini": [
+		"https://www.lamborghini.com/"
+	],
+	"who": [
+		"https://www.who.int/"
+	],
+	"vinfast": [
+		"https://vinfastauto.com/"
+	],
+	"cnn": [
+		"https://www.cnn.com/"
+	],
+	"walmart": [
+		"https://www.walmart.com/"
+	],
+	"google translate": [
+		"https://translate.google.com/"
+	],
+	"google drive": [
+		"https://drive.google.com/"
+	],
+	"ikea": [
+		"https://www.ikea.com/"
+	],
+	"etsy": [
+		"https://www.etsy.com/"
+	],
+	"booking": [
+		"https://www.booking.com/"
+	],
+	"airbnb": [
+		"https://www.airbnb.com"
+	],
+	"ny tax": [
+		"https://www.tax.ny.gov/"
+	],
+	"vogue": [
+		"https://www.vogue.com/"
+	],
+	"rare beauty": [
+		"https://www.rarebeauty.com/"
+	],
+	"trump hotels": [
+		"https://www.trumphotels.com/"
+	],
+	"hmv jp": [
+		"https://www.hmv.co.jp/"
+	],
+	"style nanda": [
+		"https://stylenandaen.com/"
+	],
+	"saint laurent": [
+		"https://www.ysl.com/"
+	],
+	"afterpay": [
+		"https://www.afterpay.com/"
+	],
+	"bobbi brown": [
+		"https://www.bobbibrowncosmetics.com/"
+	],
+	"pharmacity": [
+		"https://www.pharmacity.vn/"
+	],
+	"tripadvisor": [
+		"https://www.tripadvisor.com/"
+	],
+	"tokyo metro": [
+		"https://www.tokyometro.jp/"
+	],
+	"traveloka": [
+		"https://www.traveloka.com/"
+	],
+	"trivago": [
+		"https://www.trivago.com/"
+	],
+	"spotify": [
+		"https://open.spotify.com/"
+	],
+	"broadway": [
+		"https://www.broadway.com/shows/tickets/"
+	],
+	"nasa": [
+		"https://www.nasa.gov/"
+	],
+	"mr beast burger": [
+		"https://mrbeastburger.com/"
+	],
+	"adidas": [
+		"https://www.adidas.com/"
+	],
+	"mcdonalds": [
+		"https://www.mcdonalds.com/"
+	],
+	"starbucks": [
+		"https://www.starbucks.com/"
+	],
+	"pizza hut": [
+		"https://www.pizzahut.com/"
+	],
+	"taco bell": [
+		"https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/our-brands/taco-bell"
+	],
+	"gordon ramsay restaurant": [
+		"https://www.gordonramsayrestaurants.com/en/us"
+	],
+	"taobao": [
+		"https://world.taobao.com/"
+	],
+	"canva": [
+		"https://www.canva.com/"
+	],
+	"reddit": [
+		"https://www.reddit.com/"
+	],
+	"twitch": [
+		"https://www.twitch.tv/"
+	],
+	"billboard": [
+		"https://www.billboard.com/"
+	],
+	"Fairfax County Courthouse": [
+		"https://www.fairfaxcounty.gov/generaldistrict/generaldistrict"
+	],
+	"amc theartres": [
+		"https://www.amctheatres.com/movies"
+	],
+	"wsj food recipes": [
+		"https://www.wsj.com/recipes?mod=nav_top_subsection"
+	],
+	"bonappetit": [
+		"https://www.bonappetit.com/"
+	],
+	"Centers for Disease Control and Prevention": [
+		"https://www.cdc.gov/"
+	],
+	"cgv": [
+		"https://www.cgv.vn/"
+	],
+	"amazon prime video": [
+		"https://www.amazon.com/gp/video/storefront/ref=atv_dp_tv_c_9zZ8D2_1_0?node=2858778011"
+	],
+	"vtc": [
+		"https://vtc.vn/"
+	],
+	"ny times": [
+		"https://www.nytimes.com/"
+	],
+	"tasty":[
+		"https://tasty.co/"
+	],
+	"gifhy":[
+		"https://giphy.com/"
+	],
+	"climate reality":[
+		"https://www.climaterealityproject.org/"
+	],
+	"climate inside":[
+		"https://insideclimatenews.org/"
+	],
+	"open world food programme":[
+		"https://www.wfp.org/"
+	],
+	"alienware":[
+		"https://www.dell.com/en-us/gaming/alienware?~ck=mn"
+	],
+	"fiton":[
+		"https://app.fitonapp.com/program"
+	],
+	"zimmermann":[
+		"https://www.zimmermann.com"
+	],
+	"linkedin learning":[
+		"https://www.linkedin.com/learning/"
+	],
+	"the white house":[
+		"https://www.whitehouse.gov/"
+	],
+	"dior":[
+		"https://www.dior.com/en_vn"
+	],
+	"venmo":[
+		"https://venmo.com/"
+	],
+	"duckduckgo":[
+		"https://duckduckgo.com/"
+	],
+	"construct":[
+		"https://www.construct.net/en"
+	],
+	"pnj":[
+		"https://www.pnj.com.vn/"
+	],
+	"dotnet":[
+		"https://dotnet.microsoft.com/en-us/"
+	],
+	"google dev":[
+		"https://developers.google.com/"
+	],
+	"python":[
+		"https://www.python.org/"
+	],
+	"oracle":[
+		"https://www.oracle.com/index.html"
+	],
+	"go":[
+		"https://go.dev/"
+	],
+	"mongodb":[
+		"https://www.mongodb.com/"
+	],
+	"jquery":[
+		"https://jquery.com/"
+	],
+	"huggingface":[
+		"https://huggingface.co/"
+	],
+	"flutter":[
+		"https://flutter.dev/"
+	],
+	"firebase":[
+		"https://firebase.google.com/"
+	],
+	"woolworths":[
+		"https://www.woolworths.com.au/"
+	],
+	"kroger":[
+		"https://www.kroger.com/"
+	],
+	"chobani":[
+		"https://www.chobani.com/"
+	],
+	"rolex":[
+		"https://www.rolex.com/"
+	],
+	"microsoft":[
+		"https://www.microsoft.com/"
+	],
+	"seijoishii":[
+		"https://www.seijoishii.com/"
+	],
+	"manning":[
+		"https://www.manning.com/"
+	],
+	"tarot meaning":[
+		"https://www.amazon.com/s?k=tarot+meaning&i=stripbooks-intl-ship&crid=L98HEXQPJFRO&sprefix=tarot+meanin%2Cstripbooks-intl-ship%2C355&ref=nb_sb_noss_2"
+	],
+	"skim":[
+		"https://skims.com/"
+	],
+	"mental health":[
+		"https://www.youtube.com/playlist?list=PLbpi6ZahtOH4be8EbQ6nfN18OLEIz1cHJ"
+	],
+	"mental health medication":[
+		"https://mhanational.org/medication"
+	],
+	"samhsa":[
+		"https://findtreatment.samhsa.gov/"
+	],
+	"inclusive therapists":[
+		"https://www.inclusivetherapists.com/"
+	],
+	"help tools":[
+		"https://www.cdc.gov/mentalhealth/tools-resources/individuals/index.htm"
+	],
+	"ecosia":[
+		"https://www.ecosia.org/"
+	],
+	"fiverr":[
+		"https://www.fiverr.com/"
+	],
+	"pytorch":[
+		"https://pytorch.org/"
+	],
+	"nico nico":[
+		"https://www.nicovideo.jp/"
+	],
+	"yg select":[
+		"https://ygselect.com/"
+	],
+	"notion":[
+		"https://ygselect.com/"
+	],
+	"android studio":[
+		"https://developer.android.com/studio"
+	],
+	"feastables":[
+		"https://feastables.com/"
+	],
+	"teamseas":[
+		"https://teamseas.org/"
+	],
+	"playstation":[
+		"https://www.playstation.com/en-us/"
+	]
+}
