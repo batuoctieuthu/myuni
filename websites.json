@@ -395,10 +395,22 @@
 	"playstation":[
 		"https://www.playstation.com/en-us/"
 	],
-	"google custom earch":[
+	"google custom search":[
 		"https://programmablesearchengine.google.com/about/"
 	],
 	"google adsense":[
 		"https://adsense.google.com/"
+	],
+	"openai":[
+		"https://openai.com/"
+	],
+	"langchain":[
+		"https://python.langchain.com/docs/get_started/introduction.html"
+	],
+	"langchain docs":[
+		"https://python.langchain.com/docs/get_started/introduction.html"
+	],
+	"lutron":[
+		"https://www.lutron.com/en-US/pages/default.aspx"
 	]
 }
