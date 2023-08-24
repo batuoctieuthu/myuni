@@ -1,0 +1,299 @@
+VERISBOT VERSION 2.0
+
+NEW IN VERISBOT VERSION 2.0:
+- Add document files to chatting.
+- UI/UX update & optimize.
+- Send VERISBOT your website link, or
+request about website link to
+chatting about that website.
+- Chat response improve & enhance.
+- Add voice chat in multiple languages.
+- Add illustrations for your messages 
+(VIP Boss Account)
+==================================
+MAX MESSAGES FOR A DAY IS 33,
+55 for VIP Boss Account.
+
+### Say OR TYPE Text to communicate
+with VERISBOT, Here are some suggested
+guidelines:
+
+* Say OR TYPE: 'clear chat screen' to
+delete the chat on the current chat screen.
+##Show curent TOP 6 rising stocks of
+Brands/Companys💰
+SAY OR TYPE:
+- stocks are rising
+
+## Math Calculations 
+SAY OR TYPE:
+- What is the binary of 142?  
+- Do 'multiply, divide, add,
+subtract' math.
+- What is the value of factorial
+10/Sin 90/log of 1000?   
+
+## Chat With Files🗂
+Supported formats: csv, xlsx, pdf, doc,
+docx, txt, png, jpg, jpeg, webp, shp.
+
+Example available requests:
+- Chatting about content in file but you
+have to specify that you ask about what in
+the file.
+- Transfer image style
+Example:
+- Transfer this image style.
+- In this file, your question?
+- your question? as in this web.
+- In this pdf file, your question?
+
+** Depending on the file content and structure,
+VERISBOT's file analysis & reading may fail.
+For example, you send a pdf file but the file is
+full of images🙂, the format structure of the
+file is broken, etc.
+
+## Google Maps Directions  
+- Give me directions -> Starting 
+Location -> Destination Location  
+
+## Fax Sender📬
+SAY OR TYPE: send fax.
+
+## WhatsApp Sender
+SAY OR TYPE:  
+- send whatsapp, send messages whatsapp.
+
+## COVID Tracker/Prevention/Treatment
+SAY OR TYPE: 
+- covid, covid19, covid/covid19 
+death/recovery (add vietnam for 
+vietnam), corona us, corona us 
+death/recovery.
+EX: corona us (total cases will
+show)
+- covid report/statistic, covid
+vietnam report/statistic, corona
+us report/statistic.
+EX: covid vietnam report.
+- covid symptoms, covid prevent/ precaution.
+EXAMPLE: number of dead in covid 19 this year
+
+## VERISBOT'S Health comprehensive encyclopedia:
+A comprehensive encyclopedia 
+definition, signs or ways to 
+avoid/prevention/treatment
+of over illnesses and diseases.
+
+EX: what is Coronavirus, Encopresis
+in children illnesses, Diabetic Nephropathy
+disease, what is Mental Illness, Paget's Disease
+of Bone, Sun damaged skin, Takayasu's Arteritis,etc.
+
+## Alarm clock & Current Time/Date 
+of today🕖
+EXAMPLE SAY OR TYPE:
+- Set a timer/notify/alarm/countdown 
+for x second/minutes/hour.
+EX: set a timer for 15 minute.
+- What is the time?  
+
+## System Information
+EXAMPLE SAY OR TYPE:
+- system infor, What's my battery life.  
+
+## Selfie
+EXAMPLE SAY OR TYPE:
+- selfie, take a picture for me...
+key words: selfie, take a picture.
+*You need to connect a webcam 
+or similar device to use this feature.
+Image will be save in the folder 'MY 
+UNIVERSE Files and Document' on your Desktop.
+
+## Volume Control
+EXAMPLE SAY OR TYPE:
+- Increase/Decrease the Volume.  
+- Full/Mute the Volume.  
+
+## YouTube📽
+EXAMPLE SAY OR TYPE:
+- Play NAME-OF-THE-VIDEO (include
+artist name if that's a song/mv) on 
+YouTube.
+EX: play hot pink - exid on youtube,
+play Daily Routine To Fight Off Depression
+on YouTube.
+
+## Listen To Music
+EXAMPLE SAY OR TYPE:
+- play music, listen to music.
+
+## Find Images of EVERYTHING
+EXAMPLE SAY OR TYPE:  
+- Show images/ search images of
+NAME-OF-THINGS/PLACES/PEOPLES.
+ex: show images of gj 504b...
+
+## Find things on Wikipedia
+EXAMPLE SAY OR TYPE:
+- find taylor swift on wiki.
+
+## Places & Maps
+EXAMPLE SAY OR TYPE:
+- Show me some Position name/ Place
+name near me.
+EX: restaurants near me
+- Get directions from A to B.
+EX: SAY OR TYPE: get direction.
+- Get real view map of positions.
+EX: SAY OR TYPE: 'Position name/ Place
+name + map/position.
+EX: starbucks new york map...
+
+## The latest global overview NEWS🌏
+SAY OR TYPE:
+- Give me some news, read news.  
+- Latest news, ent news 
+(entertainment news), health news, tech news,
+climate news, book news.
+
+## The movie is playing in theater 
+today in Việt Nam (Phim đang chiếu tại 
+rạp hôm nay)
+SAY OR TYPE: open phim đang chiếu
+tại rạp hôm nay.
+
+## Popular Movies in Theaters/on 
+TV NOW📺
+SAY OR TYPE: popular movies in 
+theaters now, popular movies on tv now.
+* Source charts from NETFLIX, IMDb.
+
+## ScreenShot  
+Speak or type: Take a ScreenShot, screen capture.
+File SAVE IN: 'C:\\Users\\Administrator\\Downloads'
+
+## Window Operations  
+- Open Window/PC Software*.
+- Close Window.
+- Switch Window.
+- Maximize/Minimize Window.
+*Software: If the software cannot be 
+opened, check the 'files location' and 
+move/save them at C:\\Windows\\System32.
+The Win SOFTWARE can open: Paint, 
+Notepad, WordPad, Math Input Panel.
+
+*Others: iTunes, Zalo, LineLauncher 
+(Line), mpc-hc, aegisub32, firefox, 
+Discord, TeamViewer, Code (Visual 
+Studio Code), devenv (Visual Studio),
+Photoshop (Adobe Photoshop), browser
+(Cốc Cốc), Acrobat (Adobe Acrobat DC).
+Location: C:\\Program Files (x86).
+EX: open devenv.
+
+## Tab Operations  
+- Create/Switch/Close TAB.
+
+## Coin / Dice Game (YEAH!! The game 
+is suitable for the holidays OR anytime 
+you want to have so fun!!)
+SAY OR TYPE:
+- Toss a coin, Roll a dice, flip a coin.
+
+## Website Opener
+For specific countries, city.
+jp: japan, ny: New York,
+uk: United Kingdom. 
+
+Open anything. If can't open any
+web, contact us through 'FEEDBACK' below.
+
+SAY OR TYPE:
+- Open + NAME-OF-THE-WEBS.
+EX: open amazon prime video,
+open hmv jp, open ny times, open vtc,
+open fiton, open yahoo uk, open weibo,
+open climate reality, open pnj,..etc
+
+## Listen Podcasts
+SAY OR TYPE:
+TITLE-OF-THE-PODCAST/TITLE-YOU-WANT-TO-
+FIND + podcast.
+i want to listen to the podcast called
++ TITLE-OF-THE-PODCAST/TITLE-YOU-WANT-
+TO-FIND.
+EX: i want to listen Harry Potter and the
+Order of the Phoenix podcast
+
+Message examples:
+- Tell me something; my rossa refuses to 
+eat, how to get my cat to eat; Good
+night/morning/afternoon/evening, what
+is your secret. What you can do?, i'm
+alone, do you love me, naturally reduce
+anxiety, things to do instead of 
+social media, 😡, ways to give my mind a deep
+cleaning, book a hotel/an apartment/a
+motel, how to boost my immune system,
+the best trees to reduce air pollution, i
+wanna buy an nba ticket, Tell me a joke/funny
+joke, give me a fortune cookie .etc...
+
+- i wanna tracking order, track my order,
+what are best types of roses to grow,
+i want helping kids dealing with being left
+out, I need help with mental health (also 
+apply for stress, crisis...), healthy ways
+to cope with stress, how to choose a quality 
+food for my pet, what are things that my dogs
+should never eat, i want to create meme, i want
+to book a hotel, current bitcoin price..etc..
+
+## Online supermarket/grocery shopping:
+SAY OR TYPE:
+- buy + NAME-OF-THE-PRODUCT + at
++ NAME-OF-THE-Supermarket/Srocery.
+EX: buy oat milk at walmart...
+Groceries and supermarkets support:
+walmart, woolworths, aldi(UK), tesco.
+
+## Decryption Horoscrope.
+SAY OR TYPE: Request has NAME-OF-HOROSCROPE.
+EX: decryption Capricorn
+---
+*UTILITIES FOR PROGRAMMERS*
+Code generation & code debugging.
+
+## Files Creation
+SAY OR TYPE:
+- create an empty file (.txt) 
+- create a python/java/c++/c#/rust 
+/go/json/xml/yaml/toml/jupyter notebook/
+php/bash scripting/perl/f#/dart/kotlin/
+batch/typescript file.
+- Create a PowerPoint file  
+*Files save in the folder 'MY 
+UNIVERSE Files and Document' on
+your Desktop.
+
+## Website Opener
+SAY OR TYPE:
+- Open + NAME-OF-THE-WEBS.
+EX: open dotnet, open google dev,
+open linkedin learning, open mongodb,
+open algoexpert, open github,..etc
+
+AND MORE...ASK ME ANYTTHING.
+---
+
+LIMITATIONs
+VERISBOT may has mistakes and
+surprises. Make sure to check the
+facts. Send us your feedback so we
+can improve and enhance VERISBOT.
+---
+@Last_update: 24/08/2023
