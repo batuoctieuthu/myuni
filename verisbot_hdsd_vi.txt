@@ -1,0 +1,302 @@
+VERISBOT PHIÊN BẢN 2.0
+
+MỚI TRONG PHIÊN BẢN VERISBOT 2.0:
+- Thêm tập tin tài liệu vào trò chuyện.
+- Cập nhật & tối ưu hóa UI/UX.
+- Gửi cho VERISBOT liên kết trang web của bạn, hoặc
+yêu cầu về liên kết trang web đến
+trò chuyện về trang web đó.
+- Cải thiện và nâng cao phản hồi trò chuyện.
+- Thêm voice chat bằng nhiều ngôn ngữ.
+- Thêm hình ảnh minh họa cho tin nhắn của bạn
+(Tài khoản ông chủ VIP)
+=====================================
+SỐ TIN NHẮN TỐI ĐA TRONG MỘT NGÀY LÀ 33,
+55 cho Tài khoản Boss VIP.
+
+### Nói HOẶC LOẠI Văn bản để giao tiếp
+với VERISBOT, Dưới đây là một số gợi ý
+hướng dẫn:
+
+* Nói HOẶC LOẠI: 'xóa màn hình trò chuyện' với
+xóa cuộc trò chuyện trên màn hình trò chuyện hiện tại.
+##Hiển thị TOP 6 cổ phiếu tăng giá hiện tại của
+Thương hiệu/Công ty💰
+NÓI HOẶC LOẠI:
+- cổ phiếu đang tăng
+
+## Tính toán
+NÓI HOẶC LOẠI:
+- Số nhị phân của 142 là gì?
+- Thực hiện nhân, chia, cộng,
+phép trừ'.
+- Giá trị của giai thừa là gì
+10/Tin 90/log 1000?
+
+## Trò chuyện bằng tệp🗂
+Các định dạng được hỗ trợ: csv, xlsx, pdf, doc,
+docx, txt, png, jpg, jpeg, webp, shp.
+
+Ví dụ về các yêu cầu có sẵn:
+- Trò chuyện về nội dung trong file nhưng bạn
+phải xác định rằng bạn hỏi về những gì trong
+tập tin.
+- Chuyển phong cách hình ảnh
+Ví dụ:
+- Chuyển kiểu ảnh này.
+- Trong tập tin này, câu hỏi của bạn?
+- câu hỏi của bạn? như trong trang web này.
+- Trong file pdf này, câu hỏi của bạn?
+
+** Tùy thuộc vào nội dung và cấu trúc tập tin,
+Việc phân tích và đọc tệp của VERISBOT
+có thể không thành công.
+Ví dụ: bạn gửi một tệp pdf nhưng tệp đó là
+đầy file hình ảnh🙂, cấu trúc định dạng của
+tập tin bị hỏng, v.v.
+
+## Chỉ đường trên Google Maps
+- Chỉ đường cho tôi -> Bắt đầu
+Vị trí -> Vị trí đích
+
+## Người gửi fax📬
+NÓI HOẶC LOẠI: gửi fax.
+
+## Người gửi WhatsApp
+NÓI HOẶC LOẠI:
+- gửi whatsapp, gửi tin nhắn whatsapp.
+
+## Theo dõi/Phòng ngừa/Điều trị COVID
+NÓI HOẶC LOẠI:
+-covid,covid19,covid/covid19
+tử vong/hồi phục (thêm việt nam cho
+việt nam), corona chúng tôi, corona chúng tôi
+tử vong/hồi phục.
+EX: corona us (tổng số trường hợp sẽ
+trình diễn)
+- báo cáo/thống kê Covid, Covid
+báo cáo/thống kê việt nam, corona
+báo cáo/thống kê của chúng tôi.
+Ví dụ: báo cáo Covid Việt Nam.
+- các triệu chứng của Covid, phòng ngừa/đề phòng Covid.
+VÍ DỤ: số người chết vì Covid 19 năm nay
+
+## Bách khoa toàn diện về sức khỏe của VERISBOT:
+Một bộ bách khoa toàn thư toàn diện
+định nghĩa, dấu hiệu hoặc cách để
+tránh/phòng ngừa/điều trị
+khỏi bệnh tật và bệnh tật.
+
+VÍ DỤ: Virus Corona, Encopresis là gì
+ở trẻ em, Bệnh thận đái tháo đường
+bệnh tâm thần, bệnh tâm thần là gì, bệnh Paget
+xương, da bị tổn thương do ánh nắng mặt trời, bệnh viêm động mạch Takayasu, v.v.
+
+## Đồng hồ báo thức & Ngày/Giờ hiện tại
+của ngày hôm nay🕖
+VÍ DỤ NÓI HOẶC LOẠI:
+- Đặt hẹn giờ/thông báo/báo thức/đếm ngược
+trong x giây/phút/giờ.
+VD: đặt hẹn giờ trong 15 phút.
+- Mấy giờ rồi?
+
+## Thông tin hệ thống
+VÍ DỤ NÓI HOẶC LOẠI:
+- thông tin hệ thống, Tuổi thọ pin của tôi là bao nhiêu.
+
+## Chụp ảnh tự sướng
+VÍ DỤ NÓI HOẶC LOẠI:
+- selfie, chụp cho tôi một tấm...
+từ khóa: selfie, chụp ảnh.
+*Bạn cần kết nối webcam
+hoặc thiết bị tương tự để sử dụng tính năng này.
+Hình ảnh sẽ được lưu trong thư mục 'MY
+Tệp và Tài liệu UNIVERSE' trên Màn hình của bạn.
+
+## Kiểm soát âm lượng
+VÍ DỤ NÓI HOẶC LOẠI:
+- Tăng/Giảm âm lượng.
+- Đầy đủ/Tắt âm lượng.
+
+##YouTube📽
+VÍ DỤ NÓI HOẶC LOẠI:
+- Chơi TÊN-TÊN-VIDEO (bao gồm
+tên nghệ sĩ nếu đó là bài hát/mv) trên
+YouTube.
+EX: play hot pink - exid trên youtube,
+chơi thói quen hàng ngày để chống lại trầm cảm
+trên Youtube.
+
+## Nghe nhạc
+VÍ DỤ NÓI HOẶC LOẠI:
+- chơi nhạc, nghe nhạc.
+
+## Tìm hình ảnh của MỌI THỨ
+VÍ DỤ NÓI HOẶC LOẠI:
+- Hiển thị hình ảnh/tìm kiếm hình ảnh của
+TÊN CỦA VẬY/ĐỊA ĐIỂM/ NGƯỜI.
+ví dụ: hiển thị hình ảnh của gj 504b...
+
+## Tìm kiếm trên Wikipedia
+VÍ DỤ NÓI HOẶC LOẠI:
+- tìm taylor swift trên wiki.
+
+## Địa điểm & Bản đồ
+VÍ DỤ NÓI HOẶC LOẠI:
+- Cho tôi xem tên chức vụ/địa điểm
+tên gần tôi.
+EX: nhà hàng gần tôi
+- Nhận chỉ đường từ A đến B.
+VÍ DỤ: NÓI HOẶC LOẠI: nhận chỉ đường.
+- Nhận bản đồ xem thực tế của các vị trí.
+VÍ DỤ: NÓI HOẶC LOẠI: 'Tên vị trí/ Địa điểm
+tên + bản đồ/vị trí.
+Ví dụ: bản đồ starbucks New York...
+
+## TIN TỨC tổng quan toàn cầu mới nhất🌏
+NÓI HOẶC LOẠI:
+- Đưa cho tôi một ít tin tức, đọc tin tức.
+- Tin tức, tin tức mới nhất
+(tin giải trí), tin sức khỏe, tin công nghệ,
+tin tức khí hậu, tin tức sách.
+
+##Phim đang chiếu tại rạp
+hôm nay ở Việt Nam (Phim đang chiếu tại
+hiện tại)
+NÓI HOẶC LOẠI: mở phim đang chiếu
+tại buổi hôm nay.
+
+## Phim nổi tiếng ở rạp/trên
+TV NGAY BÂY GIỜ📺
+NÓI HOẶC LOẠI: phim nổi tiếng ở
+rạp chiếu phim bây giờ, phim nổi tiếng trên truyền hình bây giờ.
+* Nguồn biểu đồ từ NETFLIX, IMDb.
+
+## Ảnh chụp màn hình
+Nói hoặc gõ: Chụp ảnh màn hình, chụp ảnh màn hình.
+Lưu tệp vào: 'C:\\Users\\Administrator\\Downloads'
+
+## Hoạt động của cửa sổ
+- Phần mềm mở Windows/PC*.
+- Đóng cửa sổ.
+- Chuyển đổi cửa sổ.
+- Phóng to/Thu nhỏ cửa sổ.
+*Phần mềm: Nếu phần mềm không thể
+đã mở, hãy kiểm tra 'vị trí tệp' và
+di chuyển/lưu chúng tại C:\\Windows\\System32.
+PHẦN MỀM Win có thể mở: Paint,
+Notepad, WordPad, Bảng nhập liệu toán học.
+
+*Khác: iTunes, Zalo, LineLauncher
+(Dòng), mpc-hc, aegisub32, firefox,
+Discord, TeamViewer, Code (Trực quan
+Mã Studio), devenv (Visual Studio),
+Photoshop (Adobe Photoshop), trình duyệt
+(Cốc Cốc), Acrobat (Adobe Acrobat DC).
+Vị trí: C:\\Tệp chương trình (x86).
+EX: mở devenv.
+
+## Thao tác với tab
+- Tạo/Chuyển/Đóng TAB.
+
+## Trò chơi xu/xúc xắc (YEAH!! Trò chơi
+phù hợp cho những ngày nghỉ HOẶC bất cứ lúc nào
+bạn muốn vui vẻ!!)
+NÓI HOẶC LOẠI:
+- Tung đồng xu, tung xúc xắc.
+
+## Công cụ mở trang web
+Đối với các quốc gia cụ thể, thành phố.
+jp: nhật bản, ny: New York,
+Anh: Vương quốc Anh.
+
+Mở bất cứ thứ gì. Nếu không thể mở bất kỳ
+web, hãy liên hệ với chúng tôi thông qua
+'PHẢN HỒI' bên dưới.
+
+NÓI HOẶC LOẠI:
+- Mở + TÊN-TÊN-TRANG.
+EX: mở video hàng đầu của amazon,
+mở hmv jp, mở ny lần, mở vtc,
+mở fiton, mở yahoo uk, mở weibo,
+thực tế khí hậu mở, pnj mở,..v.v.
+
+## Nghe Podcast
+NÓI HOẶC LOẠI:
+TITLE-OF-THE-PODCAST/TITLE-BẠN-WANT-TO-
+TÌM + podcast.
+tôi muốn nghe podcast tên là
++ TITLE-OF-THE-PODCAST/TITLE-BẠN-WANT-
+ĐỂ TÌM.
+EX: tôi muốn nghe Harry Potter và
+Thứ tự của podcast Phoenix
+
+Ví dụ về tin nhắn:
+- Nói cho tôi biết điều gì đó; rossa của tôi từ chối
+ăn, làm sao cho mèo ăn; Tốt
+đêm/sáng/chiều/tối thì sao?
+là bí mật của bạn. Bạn có thể làm gì?, tôi
+một mình anh có yêu em không, tự nhiên giảm bớt
+lo lắng, những việc cần làm thay vì
+phương tiện truyền thông xã hội, 😡, 
+những cách giúp tâm trí tôi được làm sạch
+sâu sắc, đặt khách sạn/căn hộ/một
+nhà nghỉ, cách tăng cường hệ miễn dịch,
+những cây tốt nhất để giảm ô nhiễm không khí, tôi
+muốn mua một vé nba, Hãy kể cho tôi một câu chuyện cười/buồn cười
+đùa, cho tôi một chiếc bánh quy may mắn, v.v...
+
+- tôi muốn theo dõi đơn hàng, theo dõi đơn hàng của tôi,
+trồng loại hoa hồng nào tốt nhất,
+tôi muốn giúp bọn trẻ đối phó với việc bị bỏ rơi
+ra ngoài, tôi cần được giúp đỡ về sức khỏe tâm thần (cũng
+áp dụng khi căng thẳng, khủng hoảng...), những cách lành mạnh
+để đối phó với căng thẳng, làm thế nào để chọn một chất lượng
+thức ăn cho thú cưng của tôi, những thứ mà chó của tôi
+không bao giờ nên ăn, tôi muốn tạo meme, tôi muốn
+để đặt khách sạn, giá bitcoin hiện tại..v.v..
+
+##Mua sắm hàng tạp hóa/siêu thị trực tuyến:
+NÓI HOẶC LOẠI:
+- mua + TÊN SẢN PHẨM + tại
++ TÊN-TÊN-Siêu thị/Srocery.
+Ví dụ: mua sữa yến mạch ở Walmart...
+Hỗ trợ tạp hóa, siêu thị:
+Walmart, Woolworths, Aldi (Anh), Tesco.
+
+## Giải mã Tử vi.
+NÓI HOẶC LOẠI: Yêu cầu có TÊN-HOROSCROPE.
+EX: giải mã Ma Kết
+---
+*TIỆN ÍCH DÀNH CHO LẬP TRÌNH*
+Tạo mã và gỡ lỗi mã.
+
+## Tạo tập tin
+NÓI HOẶC LOẠI:
+- tạo một tập tin trống (.txt)
+- tạo một python/java/c++/c#/rust
+/go/json/xml/yaml/toml/jupyter sổ tay/
+tập lệnh php/bash/Perl/f#/dart/kotlin/
+tập tin batch/TypeScript.
+- Tạo tập tin PowerPoint
+* File lưu trong thư mục 'MY
+Tệp và Tài liệu UNIVERSE' trên
+Máy tính để bàn của bạn.
+
+## Công cụ mở trang web
+NÓI HOẶC LOẠI:
+- Mở + TÊN-TÊN-TRANG.
+VÍ DỤ: mở dotnet, mở google dev,
+học tập mở Linkedin, mở mongodb,
+mở thuật toán chuyên gia, mở github,..v.v.
+
+VÀ HƠN NỮA...HỎI TÔI BẤT CỨ ĐIỀU GÌ.
+---
+
+GIỚI HẠN
+VERISBOT có thể có sai sót và
+những điều ngạc nhiên. Đảm bảo kiểm tra
+sự thật. Gửi cho chúng tôi phản hồi của bạn để chúng tôi
+có thể cải thiện và nâng cao VERISBOT.
+---
+@Cập nhật lần cuối: 24/08/2023
