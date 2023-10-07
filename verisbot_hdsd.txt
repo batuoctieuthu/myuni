@@ -11,11 +11,8 @@ chatting about that website.
 - Add illustrations for your messages 
 (VIP Boss Account)
 ==================================
-MAX MESSAGES FOR A DAY IS 33,
-55 for VIP Boss Account.
-
 ### Say OR TYPE Text to communicate
-with VERISBOT, Here are some suggested
+with VERISBOT. Here are some suggested
 guidelines:
 
 * Say OR TYPE: 'clear chat screen' to
