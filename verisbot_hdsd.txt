@@ -1,5 +1,11 @@
 VERISBOT VERSION 2.0
 
+VERISBOT MODEL
+*Text Prompt:
+ + Standard: My Universe Defined Custom, Google - text-bison-001
+ + VIP Boss: My Universe Defined Custom, Google - Gemini
+*Images: Google - imagetext@001
+==================================
 NEW IN VERISBOT VERSION 2.0:
 - Add document files to chatting.
 - UI/UX update & optimize.
