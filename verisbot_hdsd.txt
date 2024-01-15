@@ -4,7 +4,9 @@ VERISBOT MODEL
 *Text Prompt:
  + Standard: My Universe Defined Custom, Google - text-bison-001
  + VIP Boss: My Universe Defined Custom, Google - Gemini
-*Images: Google - imagetext@001
+*Images & Files: 
+ + Standard: My Universe Custom Technics, Lavis model
+ + VIP Boss: My Universe Custom Technics, Google - Gemini Vision
 ==================================
 NEW IN VERISBOT VERSION 2.0:
 - Add document files to chatting.
@@ -42,8 +44,7 @@ docx, txt, png, jpg, jpeg, webp, shp.
 
 Example available requests:
 - Chatting about content in file but you
-have to specify that you ask about what in
-the file.
+have to specify that you ask about what in the file.
 - Transfer image style
 Example:
 - Transfer this image style.
@@ -72,10 +73,7 @@ SAY OR TYPE:
 SAY OR TYPE: 
 - covid, covid19, covid/covid19 
 death/recovery (add vietnam for 
-vietnam), corona us, corona us 
-death/recovery.
-EX: corona us (total cases will
-show)
+vietnam)
 - covid report/statistic, covid
 vietnam report/statistic, corona
 us report/statistic.
@@ -84,8 +82,7 @@ EX: covid vietnam report.
 EXAMPLE: number of dead in covid 19 this year
 
 ## VERISBOT'S Health comprehensive encyclopedia:
-A comprehensive encyclopedia 
-definition, signs or ways to 
+A comprehensive encyclopedia definition, signs or ways to 
 avoid/prevention/treatment
 of over illnesses and diseases.
 
@@ -110,9 +107,8 @@ EXAMPLE SAY OR TYPE:
 EXAMPLE SAY OR TYPE:
 - selfie, take a picture for me...
 key words: selfie, take a picture.
-*You need to connect a webcam 
-or similar device to use this feature.
-Image will be save in the folder 'MY 
+*You need to connect a webcam or similar device to use 
+this feature. Image will be save in the folder 'MY 
 UNIVERSE Files and Document' on your Desktop.
 
 ## Volume Control
@@ -163,8 +159,7 @@ SAY OR TYPE:
 climate news, book news.
 
 ## The movie is playing in theater 
-today in Việt Nam (Phim đang chiếu tại 
-rạp hôm nay)
+today in Việt Nam (Phim đang chiếu tại rạp hôm nay)
 SAY OR TYPE: open phim đang chiếu
 tại rạp hôm nay.
 
@@ -190,9 +185,8 @@ The Win SOFTWARE can open: Paint,
 Notepad, WordPad, Math Input Panel.
 
 *Others: iTunes, Zalo, LineLauncher 
-(Line), mpc-hc, aegisub32, firefox, 
-Discord, TeamViewer, Code (Visual 
-Studio Code), devenv (Visual Studio),
+(Line), mpc-hc, aegisub32, firefox, Discord, TeamViewer,
+Code (Visual Studio Code), devenv (Visual Studio),
 Photoshop (Adobe Photoshop), browser
 (Cốc Cốc), Acrobat (Adobe Acrobat DC).
 Location: C:\\Program Files (x86).
@@ -235,12 +229,10 @@ Order of the Phoenix podcast
 Message examples:
 - Tell me something; my rossa refuses to 
 eat, how to get my cat to eat; Good
-night/morning/afternoon/evening, what
-is your secret. What you can do?, i'm
-alone, do you love me, naturally reduce
-anxiety, things to do instead of 
-social media, 😡, ways to give my mind a deep
-cleaning, book a hotel/an apartment/a
+night/morning/afternoon/evening, what is your secret.
+What you can do?, i'm alone, do you love me, naturally reduce
+anxiety, things to do instead of social media, 😡, ways to
+give my mind a deep cleaning, book a hotel/an apartment/a
 motel, how to boost my immune system,
 the best trees to reduce air pollution, i
 wanna buy an nba ticket, Tell me a joke/funny
