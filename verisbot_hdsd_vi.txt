@@ -80,8 +80,7 @@ NÓI HOẶC LOẠI:
 tử vong/hồi phục (thêm việt nam cho
 việt nam), corona chúng tôi, corona chúng tôi
 tử vong/hồi phục.
-EX: corona us (tổng số trường hợp sẽ
-trình diễn)
+
 - báo cáo/thống kê Covid, Covid
 báo cáo/thống kê việt nam, corona
 báo cáo/thống kê của chúng tôi.
@@ -92,13 +91,12 @@ VÍ DỤ: số người chết vì Covid 19 năm nay
 ## Bách khoa toàn diện về sức khỏe của VERISBOT:
 Một bộ bách khoa toàn thư toàn diện
 định nghĩa, dấu hiệu hoặc cách để
-tránh/phòng ngừa/điều trị
-khỏi bệnh tật và bệnh tật.
+tránh/phòng ngừa/điều trị khỏi bệnh tật và bệnh tật.
 
 VÍ DỤ: Virus Corona, Encopresis là gì
-ở trẻ em, Bệnh thận đái tháo đường
-bệnh tâm thần, bệnh tâm thần là gì, bệnh Paget
-xương, da bị tổn thương do ánh nắng mặt trời, bệnh viêm động mạch Takayasu, v.v.
+ở trẻ em, Bệnh thận đái tháo đường bệnh tâm thần, bệnh tâm thần là gì,
+bệnh Paget xương, da bị tổn thương do ánh nắng mặt trời,
+bệnh viêm động mạch Takayasu, v.v.
 
 ## Đồng hồ báo thức & Ngày/Giờ hiện tại
 của ngày hôm nay🕖
@@ -128,12 +126,8 @@ VÍ DỤ NÓI HOẶC LOẠI:
 
 ##YouTube📽
 VÍ DỤ NÓI HOẶC LOẠI:
-- Chơi TÊN-TÊN-VIDEO (bao gồm
-tên nghệ sĩ nếu đó là bài hát/mv) trên
-YouTube.
-EX: play hot pink - exid trên youtube,
-chơi thói quen hàng ngày để chống lại trầm cảm
-trên Youtube.
+play hot pink - exid trên youtube,
+chơi thói quen hàng ngày để chống lại trầm cảm trên Youtube.
 
 ## Nghe nhạc
 VÍ DỤ NÓI HOẶC LOẠI:
@@ -157,8 +151,7 @@ EX: nhà hàng gần tôi
 - Nhận chỉ đường từ A đến B.
 VÍ DỤ: NÓI HOẶC LOẠI: nhận chỉ đường.
 - Nhận bản đồ xem thực tế của các vị trí.
-VÍ DỤ: NÓI HOẶC LOẠI: 'Tên vị trí/ Địa điểm
-tên + bản đồ/vị trí.
+VÍ DỤ: NÓI HOẶC LOẠI: 'Tên vị trí/ Địa điểm tên + bản đồ/vị trí.
 Ví dụ: bản đồ starbucks New York...
 
 ## TIN TỨC tổng quan toàn cầu mới nhất🌏
@@ -197,19 +190,17 @@ Notepad, WordPad, Bảng nhập liệu toán học.
 
 *Khác: iTunes, Zalo, LineLauncher
 (Dòng), mpc-hc, aegisub32, firefox,
-Discord, TeamViewer, Code (Trực quan
-Mã Studio), devenv (Visual Studio),
-Photoshop (Adobe Photoshop), trình duyệt
-(Cốc Cốc), Acrobat (Adobe Acrobat DC).
+Discord, TeamViewer, Code (Trực quan Mã Studio),
+devenv (Visual Studio), Photoshop (Adobe Photoshop),
+trình duyệt (Cốc Cốc), Acrobat (Adobe Acrobat DC).
 Vị trí: C:\\Tệp chương trình (x86).
 EX: mở devenv.
 
 ## Thao tác với tab
 - Tạo/Chuyển/Đóng TAB.
 
-## Trò chơi xu/xúc xắc (YEAH!! Trò chơi
-phù hợp cho những ngày nghỉ HOẶC bất cứ lúc nào
-bạn muốn vui vẻ!!)
+## Trò chơi xu/xúc xắc (YEAH!! Trò chơi phù hợp cho những ngày nghỉ
+HOẶC bất cứ lúc nào bạn muốn vui vẻ!)
 NÓI HOẶC LOẠI:
 - Tung đồng xu, tung xúc xắc.
 
@@ -224,8 +215,7 @@ web, hãy liên hệ với chúng tôi thông qua
 
 NÓI HOẶC LOẠI:
 - Mở + TÊN-TÊN-TRANG.
-EX: mở video hàng đầu của amazon,
-mở hmv jp, mở ny lần, mở vtc,
+EX: mở video hàng đầu của amazon, mở hmv jp, mở ny lần, mở vtc,
 mở fiton, mở yahoo uk, mở weibo,
 thực tế khí hậu mở, pnj mở,..v.v.
 
@@ -284,18 +274,15 @@ NÓI HOẶC LOẠI:
 - tạo một tập tin trống (.txt)
 - tạo một python/java/c++/c#/rust
 /go/json/xml/yaml/toml/jupyter sổ tay/
-tập lệnh php/bash/Perl/f#/dart/kotlin/
-tập tin batch/TypeScript.
+tập lệnh php/bash/Perl/f#/dart/kotlin/tập tin batch/TypeScript.
 - Tạo tập tin PowerPoint
 * File lưu trong thư mục 'MY
-Tệp và Tài liệu UNIVERSE' trên
-Máy tính để bàn của bạn.
+Tệp và Tài liệu UNIVERSE' trên máy tính để bàn của bạn.
 
 ## Công cụ mở trang web
 NÓI HOẶC LOẠI:
 - Mở + TÊN-TÊN-TRANG.
-VÍ DỤ: mở dotnet, mở google dev,
-học tập mở Linkedin, mở mongodb,
+VÍ DỤ: mở dotnet, mở google dev, học tập mở Linkedin, mở mongodb,
 mở thuật toán chuyên gia, mở github,..v.v.
 
 VÀ HƠN NỮA...HỎI TÔI BẤT CỨ ĐIỀU GÌ.
