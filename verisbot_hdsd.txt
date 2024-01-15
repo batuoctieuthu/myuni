@@ -11,10 +11,10 @@ VERISBOT MODEL
 NEW IN VERISBOT VERSION 2.0:
 - Add document files to chatting.
 - UI/UX update & optimize.
-- Send VERISBOT your website link, or
-request about website link to
-chatting about that website.
-- Chat response improve & enhance.
+- VERISBOT chat with website link or website link request.
+- Improve and enhance chat responses by:
+Input processing like grammar check,etc...(English, Vietnamese,
+Chinese), update MODELs.
 - Add voice chat in multiple languages.
 - Add illustrations for your messages 
 (VIP Boss Account)
