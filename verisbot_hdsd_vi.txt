@@ -1,12 +1,20 @@
 VERISBOT PHIÊN BẢN 2.0
 
+VERISBOT MODEL
+*Mẫu văn bản:
+ + Tiêu chuẩn: My Universe được định nghĩa trước, Google - text-bison-001
+ + VIP Boss: My Universe được định nghĩa trước, Google - Gemini
+*Các hình ảnh & Các File: 
+ + Tiêu chuẩn: My Universe kỹ thuật tùy chỉnh, Lavis model
+ + VIP Boss: My Universe kỹ thuật tùy chỉnh, Google - Gemini Vision
+==================================
 MỚI TRONG PHIÊN BẢN VERISBOT 2.0:
 - Thêm tập tin tài liệu vào trò chuyện.
 - Cập nhật & tối ưu hóa UI/UX.
-- Gửi cho VERISBOT liên kết trang web của bạn, hoặc
-yêu cầu về liên kết trang web đến
-trò chuyện về trang web đó.
-- Cải thiện và nâng cao phản hồi trò chuyện.
+- VERISBOT chat với liên kết trang web hoặc yêu cầu về liên kết trang web.
+- Cải thiện và nâng cao phản hồi trò chuyện bằng cách:
+Xử lý input (Tiếng Anh, Tiếng Việt, Tiếng Trung Quốc),
+cập nhật các MODEL.
 - Thêm voice chat bằng nhiều ngôn ngữ.
 - Thêm hình ảnh minh họa cho tin nhắn của bạn
 (Tài khoản ông chủ VIP)
