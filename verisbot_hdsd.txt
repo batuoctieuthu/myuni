@@ -122,8 +122,7 @@ EXAMPLE SAY OR TYPE:
 artist name if that's a song/mv) on 
 YouTube.
 EX: play hot pink - exid on youtube,
-play Daily Routine To Fight Off Depression
-on YouTube.
+play Daily Routine To Fight Off Depression on YouTube.
 
 ## Listen To Music
 EXAMPLE SAY OR TYPE:
@@ -147,8 +146,7 @@ EX: restaurants near me
 - Get directions from A to B.
 EX: SAY OR TYPE: get direction.
 - Get real view map of positions.
-EX: SAY OR TYPE: 'Position name/ Place
-name + map/position.
+EX: SAY OR TYPE: 'Position name/ Place name + map/position.
 EX: starbucks new york map...
 
 ## The latest global overview NEWS🌏
@@ -221,8 +219,7 @@ SAY OR TYPE:
 TITLE-OF-THE-PODCAST/TITLE-YOU-WANT-TO-
 FIND + podcast.
 i want to listen to the podcast called
-+ TITLE-OF-THE-PODCAST/TITLE-YOU-WANT-
-TO-FIND.
++ TITLE-OF-THE-PODCAST/TITLE-YOU-WANT-TO-FIND.
 EX: i want to listen Harry Potter and the
 Order of the Phoenix podcast
 
@@ -272,8 +269,7 @@ php/bash scripting/perl/f#/dart/kotlin/
 batch/typescript file.
 - Create a PowerPoint file  
 *Files save in the folder 'MY 
-UNIVERSE Files and Document' on
-your Desktop.
+UNIVERSE Files and Document' on your Desktop.
 
 ## Website Opener
 SAY OR TYPE:
